@@ -4,12 +4,12 @@ games { 'gta5' }
 author 'Cace'
 version '2.0.0'
 
-loadscreen 'index.php'
+loadscreen 'index.html'
 loadscreen_manual_shutdown 'yes'
 client_script 'client.lua'
 
 files {
-    'index.php',
+    'index.html',
     'music/music.ogg',
     'background.png',
     'script.js'
